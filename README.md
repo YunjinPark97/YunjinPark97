@@ -1,6 +1,9 @@
-### Hi there 👋
+### 본캐
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfvmfdydid)](https://solved.ac/tjfvmfdydid/)
 
+### 부캐
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfvmfdydid_java)](https://solved.ac/tjfvmfdydid_java/)
+
 <!--
 **YunjinPark97/YunjinPark97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
