@@ -49,8 +49,6 @@
 
 [백준](https://www.acmicpc.net/user/tjfvmfdydid_java)
 
-Solved.ac 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfvmfdydid_java)](https://solved.ac/tjfvmfdydid_java/)
 
 
