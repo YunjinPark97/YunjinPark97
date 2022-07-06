@@ -30,6 +30,7 @@
 
 2020년 2학기 천재교육재단 장학생 선정
 
+`22년 현대모비스 알고리즘 경진대회: 본선 진출(36등) [대회 정보](https://hyundaimobis.goorm.io/assessment/31303/22-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 
 <br>
@@ -44,7 +45,6 @@ Problem Solving: 새로운 알고리즘을 익히는 것도 재미있으며, 열
 
 메이플스토리: 리부트1에서 플레이 중입니다.
 
-`22년 현대모비스 알고리즘 경진대회: 본선 진출(36등) [대회 정보](https://hyundaimobis.goorm.io/assessment/31303/22-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 <br>
 
