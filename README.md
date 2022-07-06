@@ -51,6 +51,7 @@ Problem Solving: 새로운 알고리즘을 익히는 것도 재미있으며, 열
 
 [백준](https://www.acmicpc.net/user/tjfvmfdydid_java)
 
+솔브닥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfvmfdydid_java)](https://solved.ac/tjfvmfdydid_java/)
 
 
