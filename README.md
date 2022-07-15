@@ -30,7 +30,7 @@
 
 2020년 2학기 천재교육재단 장학생 선정
 
-`22년 현대모비스 알고리즘 경진대회: 본선 진출(36등), 우수상(23등) [대회 정보](https://hyundaimobis.goorm.io/assessment/31303/22-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) [후기](https://bleron.tistory.com/247)
+`22년 현대모비스 알고리즘 경진대회: 본선 진출(예선 36등) 및 우수상(본선 23등) [대회 정보](https://hyundaimobis.goorm.io/assessment/31303/22-%ED%98%84%EB%8C%80%EB%AA%A8%EB%B9%84%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C), [후기](https://bleron.tistory.com/247)
 
 
 <br>
