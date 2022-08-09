@@ -56,7 +56,8 @@ Problem Solving: 새로운 알고리즘을 익히는 것도 재미있으며, 열
 솔브닥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfvmfdydid_java)](https://solved.ac/tjfvmfdydid_java/)
 
-
+코드포스
+[![CodeForces Profile](https://cf.leed.at?id=segubeam)](https://codeforces.com/profile/segubeam)
 
 
 <!--
